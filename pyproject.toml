@@ -1,5 +1,5 @@
 [project]
-name = "Midpay"
+name = "midpay"
 version = "0.0.1"
 authors = [
     { name='Agung Yuliyanto', email='agung.96tm@gmail.com' },
