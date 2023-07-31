@@ -10,7 +10,3 @@ from midpay.crawlers import get_mid_simulator_class, do_process
 def cli(va_name, va_number):
     mid_class = get_mid_simulator_class(va_name, va_number)
     do_process(mid_class)
-
-
-if __name__ == "__main__":
-    cli()
