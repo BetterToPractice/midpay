@@ -7,9 +7,14 @@ Auto Pay midtrans VA by CLI
 > pip install midpay
 ```
 
+
 ### How to Run
 ```commandline
-> midpay bca <va_number>
+midpay <va_name> <va_number>
+```
+example:
+```commandline
+midpay bca_va 123321817281
 ```
 
 
